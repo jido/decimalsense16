@@ -77,4 +77,4 @@ Subnormal numbers
 
 Equivalent to 16-bit integers (ignoring the sign bit) from 0 to 99;
 
-Their exponent is _-18_ and the mantissa is equal to `p`, as it only encodes lower precision numbers between 0.0 and 1.0
+Their exponent is _-18_ and the mantissa is equal to `p`, as it only encodes lower precision numbers between 0.0 and 0.99
